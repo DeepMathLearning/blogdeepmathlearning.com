@@ -25,7 +25,7 @@ proyectos de IA aplicados a la vida real
 siendo consultores a las entidades que
 requieran el uso de estas tecnologías.</p> <br>
 <p class="text-lg sm:text-xl">
-En DeepMathLeaning creemos en el
+En DeepMathLearning creemos en el
 nuevo talento es por ello que estamos a
 la disposición de tutorar tesis a nivel de
 pregrado y postgrado en todas las áreas
