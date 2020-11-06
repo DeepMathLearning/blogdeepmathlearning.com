@@ -7,8 +7,8 @@
 module.exports = {
   /* siteName: 'Gridsome Portfolio Starter',
   siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1', */
-  siteName: 'Kevin Rojas',
-  siteDescription: 'Este es un blog personal que tiene como objetivo brindar todo tipo de información referentes a proyectos y estudios',
+  siteName: 'Deep Math Learning',
+  siteDescription: '',
   siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
   plugins: [
     {
@@ -44,7 +44,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Kevin Rojas',
+          title: 'Deep Math Learning',
           //title: 'Gridsome Portfolio Starter Blog',
           feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
           site_url: 'https://gridsome-portfolio-starter.netlify.com/'

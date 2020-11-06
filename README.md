@@ -55,5 +55,5 @@ After your dev server is running, you can run `npm run test` or `./node_modules/
 
 - Nuxt version: [https://github.com/drehimself/nuxt-portfolio-starter](https://github.com/drehimself/nuxt-portfolio-starter)
 - Saber version: [https://github.com/drehimself/saber-portfolio-starter](https://github.com/drehimself/saber-portfolio-starter)
-# kevin-rojas.com
-# kevin-rojas.com
+# blogdeepmathlearnings.com
+# blogdeepmathlearnings.com
